@@ -19,7 +19,7 @@ Usage:
    @property (weak, nonatomic) IBOutlet TextField *textView;
 ```
 <p align="center" >
-    <img src="https://github.com/soarlabs/Growable-TextField/blob/master/Sample/3.png">
+    <img src="https://github.com/soarlabs/GrowableTextView/blob/master/Sample/3.png">
 </p>
 
 - Setup Properties.
@@ -37,10 +37,10 @@ Usage:
   You can also set properties through **Interface Builder**.
 
 <p align="center" >
-    <img src="https://github.com/soarlabs/Growable-TextField/blob/master/Sample/1.png">
+    <img src="https://github.com/soarlabs/GrowableTextView/blob/master/Sample/1.png">
 </p>
 <p align="center" >
-    <img src="https://github.com/soarlabs/Growable-TextField/blob/master/Sample/2.png">
+    <img src="https://github.com/soarlabs/GrowableTextView/blob/master/Sample/2.png">
 </p>
 
 - Adding Keyboard Notification Observer's in **- (void)viewDidLoad**
