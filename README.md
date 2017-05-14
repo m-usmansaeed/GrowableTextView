@@ -1,6 +1,5 @@
-
-
 ## Objective-c
+
 ``` objective-c
 #import <GrowableTextField/GrowableTextField.h>
 ```
@@ -129,3 +128,6 @@ Usage:
 - (BOOL)growingTextViewShouldReturn:(TextField *)growingTextView;
 
 ```
+
+## Output
+![](http://g.recordit.co/uU7IzwqF2L.gif)
