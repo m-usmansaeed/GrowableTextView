@@ -8,7 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import <GrowableTextField/GrowableTextField.h>
+
+@interface ViewController : UIViewController<GrowableTextViewDelegate>{
+}
+
+@property (weak, nonatomic) IBOutlet UIView *containerView;
+@property (weak, nonatomic) IBOutlet TextField *textView;
+
+- (IBAction)btnDone:(id)sender;
+
+
 
 
 @end

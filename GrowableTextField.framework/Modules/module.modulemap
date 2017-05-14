@@ -1,0 +1,6 @@
+framework module GrowableTextField {
+  umbrella header "GrowableTextField.h"
+
+  export *
+  module * { export * }
+}
